@@ -177,11 +177,8 @@ paper:
     ORCID: 0000-0002-8572-9268
   reference: https://doi.org/10.1101/2021.02.27.433203
 
-# Source of the material being checked
-source: https://github.com/takuma929/metrics_photoreceptor_signal_reproduction
-
 repository:
-- https://github.com/takuma929/metrics_photoreceptor_signal_reproduction
+  - tscnlab/SchneiderMorimotoEtAl_ColorResAppl_2026
 
 # ----------------------------------------------------------------------------
 # The fields below are completed by the codechecker during/after the check.
