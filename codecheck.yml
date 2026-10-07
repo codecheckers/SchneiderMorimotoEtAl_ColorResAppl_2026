@@ -187,7 +187,7 @@ codechecker:
 - name: Simon Christ
   ORCID: 0000-0002-5866-1472
 report: https://doi.org/10.5281/zenodo.23166593
-check_time: 29.09.2026
+check_time: 2026-09-26
 certificate: 2026-024
 summary: |
   The code check was straightforward. Only the toolboxes "Statistics and Machine Learning" and "Image Processing" needed to be added in contrast to what was stated in the README.
