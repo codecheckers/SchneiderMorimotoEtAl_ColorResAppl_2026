@@ -189,7 +189,7 @@ repository:
 codechecker:
 - name: Simon Christ
   ORCID: 0000-0002-5866-1472
-report:
+report: https://doi.org/10.5281/zenodo.23166593
 check_time: 29.09.2026
 certificate: 2026-024
 summary: |
